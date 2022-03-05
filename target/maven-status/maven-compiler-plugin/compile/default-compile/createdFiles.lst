@@ -1,0 +1,5 @@
+com\mman\meeting\mapper\MeetingMapper.class
+com\mman\meeting\controller\MeetingController.class
+com\mman\meeting\service\MeetingService.class
+com\mman\meeting\converter\DateConverter.class
+com\mman\meeting\model\Meeting.class
